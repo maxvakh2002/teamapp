@@ -374,6 +374,7 @@ body{
 /*footer start*/
 
 .footer{
+    width: 1280px;
     background-color: var(--dark-blue, #232340);
     height: 450px;
     position: relative;
