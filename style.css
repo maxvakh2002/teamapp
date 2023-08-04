@@ -3,7 +3,7 @@ body{
     background-repeat: no-repeat;
     font-family: 'Lexend Deca', sans-serif;
     margin: 0 auto;
-    width: 1280px;
+    max-width: 1280px;
 }
 
 /*hero start*/
@@ -374,7 +374,7 @@ body{
 /*footer start*/
 
 .footer{
-    width: 1280px;
+    width: 100%;
     background-color: var(--dark-blue, #232340);
     height: 450px;
     position: relative;
